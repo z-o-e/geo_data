@@ -1,0 +1,1 @@
+python geostats.py --file wm1deg.grid --lat 89.5 --latres 1.0 --lon 0.5 --lonres 1.0

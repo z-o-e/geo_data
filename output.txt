@@ -1,0 +1,2 @@
+Area of Ocean   = 275146712.2539382 km^2 
+Volume of Ocean = 853179912.08196914 km^3 
